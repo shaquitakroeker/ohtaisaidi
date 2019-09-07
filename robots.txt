@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahvohhoop.avantyard.ca/sitemap.xml
